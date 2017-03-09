@@ -1,0 +1,7 @@
+You make accounts, you try to break it. You add and subtract numbers. "Just see what happens" 
+
+
+Basically, everything you're supposed to do, you do it. If something unexpected happened, it's broken. 
+
+I will say the implementation used doesn't let the balence go below zero, even though this would happen in a real bank. 
+Changing this would be relatively simple thing to do, it would just add a couple more errors to check for is all. 

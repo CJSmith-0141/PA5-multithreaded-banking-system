@@ -1,0 +1,5 @@
+HELLO ALL:
+
+To put this program through it's paces I and my partner just threw all that we could at the damn thing and made sure it responded correctly. No real other way to describe it. 
+
+The most interesting test is to have 20+ clients trying to connect and then start the server. POSIX sure is nifty huh!
